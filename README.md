@@ -1,21 +1,21 @@
 ## Hi there 👋　はじめまして。
 
-I'm Joshua, an American living and working in Japan.
+I'm Joshua, an American living and working in Japan. <b>
 ジョシュアと申します。日本に住んでいて働いています。
 
-I create games, systems, and creative things.
+I create games, systems, and creative things. <b>
 ゲーム、システムとクリエイティブものを作成します。
 
-I love the Japanese culture and want to create authentic mixes of my culture with it in future games and applications. And I love the feeling of coding something and watching it "come to life".
+I love the Japanese culture and want to create authentic mixes of my culture with it in future games and applications. And I love the feeling of coding something and watching it "come to life". <b>
 日本文化は興味があるので自分の文化と一緒に未来のゲームやソフトのためにはっきり作成したいんです。
 
-I'm currently working on the indie game called "Boots and Bruises".
+I'm currently working on the indie game called "Boots and Bruises". <b>
 「ドカブーツ」というゲームを開発中です。
 
-My current stack is C++, Unreal Engine Blueprints, C#, Java, HTML, CSS
+My current stack is C++, Unreal Engine Blueprints, C#, Java, HTML, CSS <b>
 今までのスタック：Ｃ＋＋、ＵｎｒｅａｌＥｎｇｉｎｅのブループリント、Ｃ＃、Ｊａｖａ、ＨＴＭＬ、ＣＳＳ
 
-<h4><i>I can communicate in Japanese and English</i></h4>
+<h4><i>I can communicate in Japanese and English</i></h4> <b>
 日本語と英語も話せます。
 
 <h3>About Me</h3>
@@ -26,7 +26,8 @@ My current stack is C++, Unreal Engine Blueprints, C#, Java, HTML, CSS
 <li>Have N3 and taking N2　ーー　今まで日本語能力試験のN3までを合格しました。N2を受け取ります。</li>
 <li>I love gardening and want a home with a small yard　ーー　ガーデニングが好きだから庭つている家が欲しいです。</li>
 </ul>
-
+<b>
+<b>
 <h3>よろしくお願いします。</h3>
 
 <!--
