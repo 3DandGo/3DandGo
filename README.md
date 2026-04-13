@@ -10,13 +10,15 @@ I'm currently working on the indie game called "Boots and Bruises".
 
 My current stack is C++, Unreal Engine Blueprints, C#, Java, HTML, CSS
 
-I can communicate in Japanese and English
+<h4><i>I can communicate in Japanese and English</i></h4>
 
-About Me
-I love anime and cute things
-I have been living in Japan for over 6 years (Lived in Yamaguchi, Okayama, Chibi, Tokyo, and now Kanagawa)
-Have N3 and taking N2
-I love gardening and want a home with a small yard
+<h3>About Me</h3>
+<ul>
+<li>I love anime and cute things</li>
+<li>I have been living in Japan for over 6 years (Lived in Yamaguchi, Okayama, Chibi, Tokyo, and now Kanagawa)</li>
+<li>Have N3 and taking N2</li>
+<li>I love gardening and want a home with a small yard</li>
+</ul>
 
 <!--
 **3DandGo/3DandGo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
